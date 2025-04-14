@@ -17,8 +17,9 @@ export const Skills = () => {
           <SymfonyIcon size={42}></SymfonyIcon>
           <h3 className="text-2xl font-semibold tracking-tight ">Symfony</h3>
           <p className="text-sm text-muted-foreground ">
-            Mon Framework Back-end de prédilection est <Code>Symfony</Code> <br />
-            Je l'utilise énormément en entreprise.
+            Mon Framework Back-end de prédilection est <Code>Symfony</Code>{" "}
+            <br />
+            Je l&apos;utilise énormément en entreprise.
           </p>
         </div>
         <div className="flex flex-col gap-2">
@@ -30,15 +31,16 @@ export const Skills = () => {
           <h3 className="text-2xl font-semibold tracking-tight ">React</h3>
           <p className="text-sm text-muted-foreground ">
             Mon Framework front principal est <Code>React</Code> <br />
-            J'utilise aussi <Code>NextJs</Code> en tant que framework front-end
-            et backend
+            J&apos;utilise aussi <Code>NextJs</Code> en tant que framework
+            front-end et backend
           </p>
         </div>
         <div className="flex flex-col gap-2">
           <NodeJsIcon size={42}></NodeJsIcon>
           <h3 className="text-2xl font-semibold tracking-tight ">NodeJs</h3>
           <p className="text-sm text-muted-foreground ">
-            J'aime beaucoup <Code>NodeJs</Code>par sa simplicité d'écriture
+            J&apos;aime beaucoup <Code>NodeJs</Code>par sa simplicité
+            d&apos;écriture
           </p>
         </div>
       </div>
