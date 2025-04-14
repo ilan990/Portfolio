@@ -13,11 +13,11 @@ export const Hero = () =>{
             <h3 className="text-3xl font-caption">Developpeur Web & créateur de sourire</h3>
             <p className="text-base">
                 Passionné par le développement de solutions web robustes et élégantes, je conçois des applications performantes avec <Code>Symfony</Code> et <Code>React</Code>. 
-                Mon expertise s'étend de l'architecture backend à l'optimisation des interfaces utilisateur, 
-                en passant par l'amélioration de la visibilité en ligne des entreprises.
+                Mon expertise s&apos;étend de l&apos;architecture backend à l&apos;optimisation des interfaces utilisateur, 
+                en passant par l&apos;amélioration de la visibilité en ligne des entreprises.
             </p>
             <p className="text-base">
-                En dehors du code, je m'exprime à travers la <Code>photographie</Code>, capturant des moments 
+                En dehors du code, je m&apos;exprime à travers la <Code>photographie</Code>, capturant des moments 
                 comme je capture des solutions techniques - avec précision et créativité.
             </p>
         </div>
