@@ -28,7 +28,7 @@ export const Hero = () => {
       </div>
       <div className="flex-[2] flex justify-center">
         <Image
-          src="/img/profile.png"
+          src="/img/Profile.png"
           width={300}
           height={300}
           alt="Ilan Assouline Picture"
