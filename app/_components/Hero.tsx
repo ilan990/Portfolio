@@ -1,15 +1,10 @@
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable @next/next/no-img-element */
-import { ComponentPropsWithoutRef } from "react";
 import { Section } from "./Section";
-import { cn } from "@/lib/utils";
+import {Code} from "./Code"
 
-const Code = ({className, children, ...props}: ComponentPropsWithoutRef<"span">) => {
-    return (
-        <span className={cn("bg-gray-500 text-gray-800 text-xs font-medium me-2 px-1.5 py-0.5 rounded-sm dark:bg-gray-700 dark:text-gray-300", className)} {...props}>{children}</span>
-    );
-}
+
 
 export const Hero = () =>{
     return <Section className="flex max-md:flex-col items-center gap-6">

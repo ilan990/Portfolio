@@ -31,7 +31,7 @@ export const Header = () => {
               "size-6 p-0 "
             )}
           >
-            <LinkedinIcon size={16} className="text-foreground">
+            <LinkedinIcon size={16} className="text-foreground ">
               {" "}
             </LinkedinIcon>
           </Link>

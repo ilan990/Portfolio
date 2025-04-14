@@ -36,4 +36,16 @@ body {
   }
 }
 
+@layer utilities {
+  .bg-accent {
+    background-color: hsl(var(--accent));
+  }
+  .hover\:bg-accent:hover {
+    background-color: hsl(var(--accent));
+  }
+  .text-accent-foreground {
+    color: hsl(var(--accent-foreground));
+  }
+}
+
 @import "tailwindcss/utilities";
