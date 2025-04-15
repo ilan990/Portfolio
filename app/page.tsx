@@ -7,18 +7,18 @@ import { Contact } from "./_components/Contact";
 import { Footer } from "./_components/Footer";
 
 export default function Home() {
-  return (<main>
-    <Header/>
-    <Spacing size="md"></Spacing>
-    <Hero/>
-    <Spacing size="md"></Spacing>
-    <Status/>
-    <Spacing size="md"></Spacing>
-    <Skills/>
-    <Spacing size="md"></Spacing>
-    <Contact/>
-   
-    <Footer/>
-   
-     </main>);
+  return (
+    <main>
+      <Header />
+      <Spacing size="md"></Spacing>
+      <Hero />
+      <Spacing size="md"></Spacing>
+      <Status />
+      <Spacing size="md"></Spacing>
+      <Skills />
+      <Spacing size="md"></Spacing>
+      <Contact />
+      <Footer />
+    </main>
+  );
 }
