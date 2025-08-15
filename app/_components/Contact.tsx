@@ -15,7 +15,7 @@ export const Contact = () => {
         <Card className="p-3 flex !flex-row hover:bg-[hsl(var(--accent))] transition-colors items-center w-full justify-between gap-3 group">
           <ContactCard
             name="@Ilanassouline"
-            image="https://media.licdn.com/dms/image/v2/D4E35AQFH3iIF5phsiw/profile-framedphoto-shrink_400_400/B4EZWQIPlyGgAc-/0/1741879835279?e=1744815600&v=beta&t=IPKD23_FF-gkk-L0sZw1oto8iMtxYhyYEo0PIJouuK0"
+            image="https://ilanassouline.vercel.app/_next/image?url=%2Fimg%2FProfile.png&w=384&q=75"
             MediumImage="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"
             description="My linkedin account"
             url="https://www.linkedin.com/in/ilanassouline/"
